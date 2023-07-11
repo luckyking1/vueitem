@@ -1,5 +1,5 @@
 # shop
-
+一个简单的电商后台数据平台，运用了echart等
 ## Project setup
 ```
 npm install
