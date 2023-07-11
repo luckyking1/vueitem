@@ -1,5 +1,5 @@
 # shop
-
+一个简易的电商数据管理平台，由shop引申，采用echart,webstorm等技术
 ## Project setup
 ```
 npm install
